@@ -5,4 +5,3 @@ class BlogConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
     name = 'blog'
     name = 'blog'
-    I dont knwo wha to do
